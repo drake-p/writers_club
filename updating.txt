@@ -1,0 +1,10 @@
+How to access and change the files on the school's server:
+
+1. Connect to VPN server at https://vpn.student.gvsu.edu/ using login: writers and pw: pont8yar
+2. Choose Start connection
+3. Now, ftp into the server using the following:
+Host: ftp://www2.gvsu.edu/
+Login: writers
+PW: pont8yar
+
+That should allow you to access all the files on the club's drive, and then it's business as usual.

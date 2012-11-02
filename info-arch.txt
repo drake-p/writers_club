@@ -1,0 +1,23 @@
+Goal:
+
+Integrate static archives with an easily-updated* post mechanism (blog engine).
+
+*No code interaction: WYSIWYG
+
+Restrictions: 
+
+Every page should conform to a more or less uniform, fully customized template with accessible html and css.
+Our current host server allows only html, css, and javascript -- no php, possibly no xml?
+We would rather not have to pay money, and definitely not a great deal of it.  Considering that we are provided with a free host server, why waste it?
+
+Possible solutions:
+
+- Host all static content on www2 domain, and either
+  1 write an xml/js-only blog engine hosted on the same server.  editors can update by writing new posts, but other members will not be able to comment.  may still require some code interaction to update.
+  2 get a free blogger/wordpress blog site and link to it from the www2 pages.  allows commenting. easy WYSIWYG post writing.  may expose content to copyright issues (careful about posting original stories).  may have cap on content.  may be difficult to customize template.  
+
+- Host all content, static and dynamic, on a blogger/wordpress free domain.  See 2 above.
+
+- Host all content, static and dynamic, on a paid domain that supports server-side scripting.  Best option, but requires funding from members or Student Life.  Not out of the question ($40/yr is nothing to their budget) but requires maintenance from future members.
+
+(Note:  Blogger seems preferable over wordpress, which charges hefty fees for full customization control and definitely claims rights to content.  Investigate whether Blogger has any such drawbacks!)
